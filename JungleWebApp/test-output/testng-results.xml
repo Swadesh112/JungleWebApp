@@ -2,157 +2,267 @@
 <testng-results skipped="0" failed="0" ignored="18" total="28" passed="10">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="103344" started-at="2022-01-12T18:13:33 GST" finished-at="2022-01-12T18:15:17 GST">
+  <suite name="Suite" duration-ms="102118" started-at="2022-01-12T23:07:08 GST" finished-at="2022-01-12T23:08:50 GST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="103344" started-at="2022-01-12T18:13:33 GST" finished-at="2022-01-12T18:15:17 GST">
+    <test name="Test" duration-ms="102118" started-at="2022-01-12T23:07:08 GST" finished-at="2022-01-12T23:08:50 GST">
       <class name="com.jungle.qa.testCases.TC_06_Validate_Presence_Of_Categories_In_Browse_By_Category_Section">
-        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.jungle.qa.testCases.TC_06_Validate_Presence_Of_Categories_In_Browse_By_Category_Section@12d3247]" name="setUpClass" is-config="true" duration-ms="2823" started-at="2022-01-12T18:14:16 GST" finished-at="2022-01-12T18:14:19 GST">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.jungle.qa.testCases.TC_06_Validate_Presence_Of_Categories_In_Browse_By_Category_Section@9cfc36]" name="setUpClass" is-config="true" duration-ms="3163" started-at="2022-01-12T23:07:50 GST" finished-at="2022-01-12T23:07:54 GST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method status="PASS" signature="validatePresenceOfBrowseByCategorySection()[pri:0, instance:com.jungle.qa.testCases.TC_06_Validate_Presence_Of_Categories_In_Browse_By_Category_Section@12d3247]" name="validatePresenceOfBrowseByCategorySection" duration-ms="5258" started-at="2022-01-12T18:14:19 GST" finished-at="2022-01-12T18:14:24 GST">
+        <test-method status="PASS" signature="validatePresenceOfBrowseByCategorySection()[pri:0, instance:com.jungle.qa.testCases.TC_06_Validate_Presence_Of_Categories_In_Browse_By_Category_Section@9cfc36]" name="validatePresenceOfBrowseByCategorySection" duration-ms="5358" started-at="2022-01-12T23:07:54 GST" finished-at="2022-01-12T23:07:59 GST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validatePresenceOfBrowseByCategorySection -->
-        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.jungle.qa.testCases.TC_06_Validate_Presence_Of_Categories_In_Browse_By_Category_Section@12d3247]" name="tearDownClass" is-config="true" duration-ms="2641" started-at="2022-01-12T18:14:24 GST" finished-at="2022-01-12T18:14:27 GST">
+        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.jungle.qa.testCases.TC_06_Validate_Presence_Of_Categories_In_Browse_By_Category_Section@9cfc36]" name="tearDownMethod" is-config="true" duration-ms="1" started-at="2022-01-12T23:07:59 GST" finished-at="2022-01-12T23:07:59 GST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validatePresenceOfBrowseByCategorySection status=SUCCESS method=TC_06_Validate_Presence_Of_Categories_In_Browse_By_Category_Section.validatePresenceOfBrowseByCategorySection()[pri:0, instance:com.jungle.qa.testCases.TC_06_Validate_Presence_Of_Categories_In_Browse_By_Category_Section@9cfc36] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.jungle.qa.testCases.TC_06_Validate_Presence_Of_Categories_In_Browse_By_Category_Section@9cfc36]" name="tearDownClass" is-config="true" duration-ms="2661" started-at="2022-01-12T23:07:59 GST" finished-at="2022-01-12T23:08:02 GST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
       </class> <!-- com.jungle.qa.testCases.TC_06_Validate_Presence_Of_Categories_In_Browse_By_Category_Section -->
-      <class name="com.jungle.qa.testCases.TC_03_Validate_FAQ_Answer_Is_Expanded_And_Collapsed">
-        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.jungle.qa.testCases.TC_03_Validate_FAQ_Answer_Is_Expanded_And_Collapsed@eca56e]" name="setUpClass" is-config="true" duration-ms="3309" started-at="2022-01-12T18:13:43 GST" finished-at="2022-01-12T18:13:46 GST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUpClass -->
-        <test-method status="PASS" signature="validateFAQAnswerIsExpandedAndCollapsed()[pri:0, instance:com.jungle.qa.testCases.TC_03_Validate_FAQ_Answer_Is_Expanded_And_Collapsed@eca56e]" name="validateFAQAnswerIsExpandedAndCollapsed" duration-ms="1027" started-at="2022-01-12T18:13:46 GST" finished-at="2022-01-12T18:13:47 GST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- validateFAQAnswerIsExpandedAndCollapsed -->
-        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.jungle.qa.testCases.TC_03_Validate_FAQ_Answer_Is_Expanded_And_Collapsed@eca56e]" name="tearDownClass" is-config="true" duration-ms="2671" started-at="2022-01-12T18:13:47 GST" finished-at="2022-01-12T18:13:50 GST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDownClass -->
-      </class> <!-- com.jungle.qa.testCases.TC_03_Validate_FAQ_Answer_Is_Expanded_And_Collapsed -->
       <class name="com.jungle.qa.testCases.TC_04_Validate_SignUp_Feature">
-        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.jungle.qa.testCases.TC_04_Validate_SignUp_Feature@f759d7]" name="setUpClass" is-config="true" duration-ms="15980" started-at="2022-01-12T18:13:50 GST" finished-at="2022-01-12T18:14:06 GST">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.jungle.qa.testCases.TC_04_Validate_SignUp_Feature@12d3247]" name="setUpClass" is-config="true" duration-ms="3182" started-at="2022-01-12T23:07:36 GST" finished-at="2022-01-12T23:07:39 GST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method status="PASS" signature="validateSignUpFeature()[pri:0, instance:com.jungle.qa.testCases.TC_04_Validate_SignUp_Feature@f759d7]" name="validateSignUpFeature" duration-ms="2598" started-at="2022-01-12T18:14:06 GST" finished-at="2022-01-12T18:14:09 GST">
+        <test-method status="PASS" signature="validateSignUpFeature()[pri:0, instance:com.jungle.qa.testCases.TC_04_Validate_SignUp_Feature@12d3247]" name="validateSignUpFeature" duration-ms="4003" started-at="2022-01-12T23:07:39 GST" finished-at="2022-01-12T23:07:43 GST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateSignUpFeature -->
-        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.jungle.qa.testCases.TC_04_Validate_SignUp_Feature@f759d7]" name="tearDownClass" is-config="true" duration-ms="2637" started-at="2022-01-12T18:14:09 GST" finished-at="2022-01-12T18:14:11 GST">
+        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.jungle.qa.testCases.TC_04_Validate_SignUp_Feature@12d3247]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2022-01-12T23:07:43 GST" finished-at="2022-01-12T23:07:43 GST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateSignUpFeature status=SUCCESS method=TC_04_Validate_SignUp_Feature.validateSignUpFeature()[pri:0, instance:com.jungle.qa.testCases.TC_04_Validate_SignUp_Feature@12d3247] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.jungle.qa.testCases.TC_04_Validate_SignUp_Feature@12d3247]" name="tearDownClass" is-config="true" duration-ms="2642" started-at="2022-01-12T23:07:43 GST" finished-at="2022-01-12T23:07:46 GST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
       </class> <!-- com.jungle.qa.testCases.TC_04_Validate_SignUp_Feature -->
-      <class name="com.jungle.qa.testCases.TC_07_Validate_Presence_Of_Question_And_Answer_In_FAQs_Section">
-        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.jungle.qa.testCases.TC_07_Validate_Presence_Of_Question_And_Answer_In_FAQs_Section@cd23d9]" name="setUpClass" is-config="true" duration-ms="15160" started-at="2022-01-12T18:14:27 GST" finished-at="2022-01-12T18:14:42 GST">
+      <class name="com.jungle.qa.testCases.TC_03_Validate_FAQ_Answer_Is_Expanded_And_Collapsed">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.jungle.qa.testCases.TC_03_Validate_FAQ_Answer_Is_Expanded_And_Collapsed@bd213e]" name="setUpClass" is-config="true" duration-ms="2884" started-at="2022-01-12T23:07:31 GST" finished-at="2022-01-12T23:07:34 GST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method status="PASS" signature="validatePresenceOfQustionAndAnswerInFAQSection()[pri:0, instance:com.jungle.qa.testCases.TC_07_Validate_Presence_Of_Question_And_Answer_In_FAQs_Section@cd23d9]" name="validatePresenceOfQustionAndAnswerInFAQSection" duration-ms="1112" started-at="2022-01-12T18:14:42 GST" finished-at="2022-01-12T18:14:43 GST">
+        <test-method status="PASS" signature="validateFAQAnswerIsExpandedAndCollapsed()[pri:0, instance:com.jungle.qa.testCases.TC_03_Validate_FAQ_Answer_Is_Expanded_And_Collapsed@bd213e]" name="validateFAQAnswerIsExpandedAndCollapsed" duration-ms="997" started-at="2022-01-12T23:07:34 GST" finished-at="2022-01-12T23:07:35 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateFAQAnswerIsExpandedAndCollapsed -->
+        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.jungle.qa.testCases.TC_03_Validate_FAQ_Answer_Is_Expanded_And_Collapsed@bd213e]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2022-01-12T23:07:35 GST" finished-at="2022-01-12T23:07:35 GST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateFAQAnswerIsExpandedAndCollapsed status=SUCCESS method=TC_03_Validate_FAQ_Answer_Is_Expanded_And_Collapsed.validateFAQAnswerIsExpandedAndCollapsed()[pri:0, instance:com.jungle.qa.testCases.TC_03_Validate_FAQ_Answer_Is_Expanded_And_Collapsed@bd213e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.jungle.qa.testCases.TC_03_Validate_FAQ_Answer_Is_Expanded_And_Collapsed@bd213e]" name="tearDownClass" is-config="true" duration-ms="706" started-at="2022-01-12T23:07:35 GST" finished-at="2022-01-12T23:07:36 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.jungle.qa.testCases.TC_03_Validate_FAQ_Answer_Is_Expanded_And_Collapsed -->
+      <class name="com.jungle.qa.testCases.TC_07_Validate_Presence_Of_Question_And_Answer_In_FAQs_Section">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.jungle.qa.testCases.TC_07_Validate_Presence_Of_Question_And_Answer_In_FAQs_Section@1bd930a]" name="setUpClass" is-config="true" duration-ms="3315" started-at="2022-01-12T23:08:02 GST" finished-at="2022-01-12T23:08:05 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="validatePresenceOfQustionAndAnswerInFAQSection()[pri:0, instance:com.jungle.qa.testCases.TC_07_Validate_Presence_Of_Question_And_Answer_In_FAQs_Section@1bd930a]" name="validatePresenceOfQustionAndAnswerInFAQSection" duration-ms="883" started-at="2022-01-12T23:08:05 GST" finished-at="2022-01-12T23:08:06 GST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validatePresenceOfQustionAndAnswerInFAQSection -->
-        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.jungle.qa.testCases.TC_07_Validate_Presence_Of_Question_And_Answer_In_FAQs_Section@cd23d9]" name="tearDownClass" is-config="true" duration-ms="2665" started-at="2022-01-12T18:14:43 GST" finished-at="2022-01-12T18:14:46 GST">
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.jungle.qa.testCases.TC_07_Validate_Presence_Of_Question_And_Answer_In_FAQs_Section@1bd930a]" name="tearDownClass" is-config="true" duration-ms="737" started-at="2022-01-12T23:08:06 GST" finished-at="2022-01-12T23:08:07 GST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
+        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.jungle.qa.testCases.TC_07_Validate_Presence_Of_Question_And_Answer_In_FAQs_Section@1bd930a]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2022-01-12T23:08:06 GST" finished-at="2022-01-12T23:08:06 GST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validatePresenceOfQustionAndAnswerInFAQSection status=SUCCESS method=TC_07_Validate_Presence_Of_Question_And_Answer_In_FAQs_Section.validatePresenceOfQustionAndAnswerInFAQSection()[pri:0, instance:com.jungle.qa.testCases.TC_07_Validate_Presence_Of_Question_And_Answer_In_FAQs_Section@1bd930a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
       </class> <!-- com.jungle.qa.testCases.TC_07_Validate_Presence_Of_Question_And_Answer_In_FAQs_Section -->
       <class name="com.jungle.qa.testCases.TC_01_Validate_Banner_Headline">
-        <test-method status="PASS" signature="setUpSuite()[pri:0, instance:com.jungle.qa.testCases.TC_01_Validate_Banner_Headline@87761d]" name="setUpSuite" is-config="true" duration-ms="96" started-at="2022-01-12T18:13:33 GST" finished-at="2022-01-12T18:13:33 GST">
+        <test-method status="PASS" signature="setUpSuite()[pri:0, instance:com.jungle.qa.testCases.TC_01_Validate_Banner_Headline@646db9]" name="setUpSuite" is-config="true" duration-ms="126" started-at="2022-01-12T23:07:08 GST" finished-at="2022-01-12T23:07:08 GST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpSuite -->
-        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.jungle.qa.testCases.TC_01_Validate_Banner_Headline@87761d]" name="setUpClass" is-config="true" duration-ms="3651" started-at="2022-01-12T18:13:33 GST" finished-at="2022-01-12T18:13:37 GST">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.jungle.qa.testCases.TC_01_Validate_Banner_Headline@646db9]" name="setUpClass" is-config="true" duration-ms="15665" started-at="2022-01-12T23:07:08 GST" finished-at="2022-01-12T23:07:24 GST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method status="PASS" signature="validateBannerHeadline()[pri:0, instance:com.jungle.qa.testCases.TC_01_Validate_Banner_Headline@87761d]" name="validateBannerHeadline" duration-ms="913" started-at="2022-01-12T18:13:37 GST" finished-at="2022-01-12T18:13:38 GST">
+        <test-method status="PASS" signature="validateBannerHeadline()[pri:0, instance:com.jungle.qa.testCases.TC_01_Validate_Banner_Headline@646db9]" name="validateBannerHeadline" duration-ms="833" started-at="2022-01-12T23:07:24 GST" finished-at="2022-01-12T23:07:24 GST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateBannerHeadline -->
-        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.jungle.qa.testCases.TC_01_Validate_Banner_Headline@87761d]" name="tearDownClass" is-config="true" duration-ms="766" started-at="2022-01-12T18:13:38 GST" finished-at="2022-01-12T18:13:39 GST">
+        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.jungle.qa.testCases.TC_01_Validate_Banner_Headline@646db9]" name="tearDownMethod" is-config="true" duration-ms="2" started-at="2022-01-12T23:07:24 GST" finished-at="2022-01-12T23:07:24 GST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateBannerHeadline status=SUCCESS method=TC_01_Validate_Banner_Headline.validateBannerHeadline()[pri:0, instance:com.jungle.qa.testCases.TC_01_Validate_Banner_Headline@646db9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.jungle.qa.testCases.TC_01_Validate_Banner_Headline@646db9]" name="tearDownClass" is-config="true" duration-ms="2650" started-at="2022-01-12T23:07:24 GST" finished-at="2022-01-12T23:07:27 GST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
-        <test-method status="PASS" signature="tearDownSuite()[pri:0, instance:com.jungle.qa.testCases.TC_01_Validate_Banner_Headline@87761d]" name="tearDownSuite" is-config="true" duration-ms="265" started-at="2022-01-12T18:15:17 GST" finished-at="2022-01-12T18:15:17 GST">
+        <test-method status="PASS" signature="tearDownSuite()[pri:0, instance:com.jungle.qa.testCases.TC_01_Validate_Banner_Headline@646db9]" name="tearDownSuite" is-config="true" duration-ms="224" started-at="2022-01-12T23:08:50 GST" finished-at="2022-01-12T23:08:50 GST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownSuite -->
       </class> <!-- com.jungle.qa.testCases.TC_01_Validate_Banner_Headline -->
       <class name="com.jungle.qa.testCases.TC_10_Validate_Footer_Link_For_Facebook">
-        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.jungle.qa.testCases.TC_10_Validate_Footer_Link_For_Facebook@f6106c]" name="setUpClass" is-config="true" duration-ms="2926" started-at="2022-01-12T18:15:06 GST" finished-at="2022-01-12T18:15:09 GST">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.jungle.qa.testCases.TC_10_Validate_Footer_Link_For_Facebook@30d1e6]" name="setUpClass" is-config="true" duration-ms="3262" started-at="2022-01-12T23:08:39 GST" finished-at="2022-01-12T23:08:42 GST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method status="PASS" signature="validateFooterLinkForFacebook()[pri:0, instance:com.jungle.qa.testCases.TC_10_Validate_Footer_Link_For_Facebook@f6106c]" name="validateFooterLinkForFacebook" duration-ms="4800" started-at="2022-01-12T18:15:09 GST" finished-at="2022-01-12T18:15:14 GST">
+        <test-method status="PASS" signature="validateFooterLinkForFacebook()[pri:0, instance:com.jungle.qa.testCases.TC_10_Validate_Footer_Link_For_Facebook@30d1e6]" name="validateFooterLinkForFacebook" duration-ms="5084" started-at="2022-01-12T23:08:42 GST" finished-at="2022-01-12T23:08:47 GST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateFooterLinkForFacebook -->
-        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.jungle.qa.testCases.TC_10_Validate_Footer_Link_For_Facebook@f6106c]" name="tearDownClass" is-config="true" duration-ms="2658" started-at="2022-01-12T18:15:14 GST" finished-at="2022-01-12T18:15:17 GST">
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.jungle.qa.testCases.TC_10_Validate_Footer_Link_For_Facebook@30d1e6]" name="tearDownClass" is-config="true" duration-ms="2650" started-at="2022-01-12T23:08:47 GST" finished-at="2022-01-12T23:08:50 GST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
+        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.jungle.qa.testCases.TC_10_Validate_Footer_Link_For_Facebook@30d1e6]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2022-01-12T23:08:47 GST" finished-at="2022-01-12T23:08:47 GST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateFooterLinkForFacebook status=SUCCESS method=TC_10_Validate_Footer_Link_For_Facebook.validateFooterLinkForFacebook()[pri:0, instance:com.jungle.qa.testCases.TC_10_Validate_Footer_Link_For_Facebook@30d1e6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
       </class> <!-- com.jungle.qa.testCases.TC_10_Validate_Footer_Link_For_Facebook -->
       <class name="com.jungle.qa.testCases.TC_09_Validate_Footer_Link_For_LinkedIn">
-        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.jungle.qa.testCases.TC_09_Validate_Footer_Link_For_LinkedIn@1723e30]" name="setUpClass" is-config="true" duration-ms="2843" started-at="2022-01-12T18:14:56 GST" finished-at="2022-01-12T18:14:59 GST">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.jungle.qa.testCases.TC_09_Validate_Footer_Link_For_LinkedIn@13a3d88]" name="setUpClass" is-config="true" duration-ms="15692" started-at="2022-01-12T23:08:18 GST" finished-at="2022-01-12T23:08:33 GST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method status="PASS" signature="validateFooterLinkForLinkedIn()[pri:0, instance:com.jungle.qa.testCases.TC_09_Validate_Footer_Link_For_LinkedIn@1723e30]" name="validateFooterLinkForLinkedIn" duration-ms="4685" started-at="2022-01-12T18:14:59 GST" finished-at="2022-01-12T18:15:04 GST">
+        <test-method status="PASS" signature="validateFooterLinkForLinkedIn()[pri:0, instance:com.jungle.qa.testCases.TC_09_Validate_Footer_Link_For_LinkedIn@13a3d88]" name="validateFooterLinkForLinkedIn" duration-ms="4690" started-at="2022-01-12T23:08:33 GST" finished-at="2022-01-12T23:08:38 GST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateFooterLinkForLinkedIn -->
-        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.jungle.qa.testCases.TC_09_Validate_Footer_Link_For_LinkedIn@1723e30]" name="tearDownClass" is-config="true" duration-ms="2657" started-at="2022-01-12T18:15:04 GST" finished-at="2022-01-12T18:15:06 GST">
+        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.jungle.qa.testCases.TC_09_Validate_Footer_Link_For_LinkedIn@13a3d88]" name="tearDownMethod" is-config="true" duration-ms="1" started-at="2022-01-12T23:08:38 GST" finished-at="2022-01-12T23:08:38 GST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateFooterLinkForLinkedIn status=SUCCESS method=TC_09_Validate_Footer_Link_For_LinkedIn.validateFooterLinkForLinkedIn()[pri:0, instance:com.jungle.qa.testCases.TC_09_Validate_Footer_Link_For_LinkedIn@13a3d88] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.jungle.qa.testCases.TC_09_Validate_Footer_Link_For_LinkedIn@13a3d88]" name="tearDownClass" is-config="true" duration-ms="932" started-at="2022-01-12T23:08:38 GST" finished-at="2022-01-12T23:08:39 GST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
       </class> <!-- com.jungle.qa.testCases.TC_09_Validate_Footer_Link_For_LinkedIn -->
       <class name="com.jungle.qa.testCases.TC_08_Validate_Footer_Link_For_Twitter">
-        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.jungle.qa.testCases.TC_08_Validate_Footer_Link_For_Twitter@1bd930a]" name="setUpClass" is-config="true" duration-ms="2889" started-at="2022-01-12T18:14:46 GST" finished-at="2022-01-12T18:14:49 GST">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.jungle.qa.testCases.TC_08_Validate_Footer_Link_For_Twitter@f6106c]" name="setUpClass" is-config="true" duration-ms="5148" started-at="2022-01-12T23:08:07 GST" finished-at="2022-01-12T23:08:12 GST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method status="PASS" signature="validateFooterLinkForTwitter()[pri:0, instance:com.jungle.qa.testCases.TC_08_Validate_Footer_Link_For_Twitter@1bd930a]" name="validateFooterLinkForTwitter" duration-ms="4937" started-at="2022-01-12T18:14:49 GST" finished-at="2022-01-12T18:14:54 GST">
+        <test-method status="PASS" signature="validateFooterLinkForTwitter()[pri:0, instance:com.jungle.qa.testCases.TC_08_Validate_Footer_Link_For_Twitter@f6106c]" name="validateFooterLinkForTwitter" duration-ms="5006" started-at="2022-01-12T23:08:12 GST" finished-at="2022-01-12T23:08:17 GST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateFooterLinkForTwitter -->
-        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.jungle.qa.testCases.TC_08_Validate_Footer_Link_For_Twitter@1bd930a]" name="tearDownClass" is-config="true" duration-ms="2692" started-at="2022-01-12T18:14:54 GST" finished-at="2022-01-12T18:14:56 GST">
+        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.jungle.qa.testCases.TC_08_Validate_Footer_Link_For_Twitter@f6106c]" name="tearDownMethod" is-config="true" duration-ms="1" started-at="2022-01-12T23:08:17 GST" finished-at="2022-01-12T23:08:17 GST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateFooterLinkForTwitter status=SUCCESS method=TC_08_Validate_Footer_Link_For_Twitter.validateFooterLinkForTwitter()[pri:0, instance:com.jungle.qa.testCases.TC_08_Validate_Footer_Link_For_Twitter@f6106c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.jungle.qa.testCases.TC_08_Validate_Footer_Link_For_Twitter@f6106c]" name="tearDownClass" is-config="true" duration-ms="979" started-at="2022-01-12T23:08:17 GST" finished-at="2022-01-12T23:08:18 GST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
       </class> <!-- com.jungle.qa.testCases.TC_08_Validate_Footer_Link_For_Twitter -->
       <class name="com.jungle.qa.testCases.TC_02_Validate_Title_Of_HomePage">
-        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.jungle.qa.testCases.TC_02_Validate_Title_Of_HomePage@17dd107]" name="setUpClass" is-config="true" duration-ms="2846" started-at="2022-01-12T18:13:39 GST" finished-at="2022-01-12T18:13:42 GST">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.jungle.qa.testCases.TC_02_Validate_Title_Of_HomePage@f759d7]" name="setUpClass" is-config="true" duration-ms="2900" started-at="2022-01-12T23:07:27 GST" finished-at="2022-01-12T23:07:30 GST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method status="PASS" signature="validateTitleOfHomePage()[pri:0, instance:com.jungle.qa.testCases.TC_02_Validate_Title_Of_HomePage@17dd107]" name="validateTitleOfHomePage" duration-ms="638" started-at="2022-01-12T18:13:42 GST" finished-at="2022-01-12T18:13:42 GST">
+        <test-method status="PASS" signature="validateTitleOfHomePage()[pri:0, instance:com.jungle.qa.testCases.TC_02_Validate_Title_Of_HomePage@f759d7]" name="validateTitleOfHomePage" duration-ms="599" started-at="2022-01-12T23:07:30 GST" finished-at="2022-01-12T23:07:31 GST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateTitleOfHomePage -->
-        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.jungle.qa.testCases.TC_02_Validate_Title_Of_HomePage@17dd107]" name="tearDownClass" is-config="true" duration-ms="726" started-at="2022-01-12T18:13:42 GST" finished-at="2022-01-12T18:13:43 GST">
+        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.jungle.qa.testCases.TC_02_Validate_Title_Of_HomePage@f759d7]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2022-01-12T23:07:31 GST" finished-at="2022-01-12T23:07:31 GST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateTitleOfHomePage status=SUCCESS method=TC_02_Validate_Title_Of_HomePage.validateTitleOfHomePage()[pri:0, instance:com.jungle.qa.testCases.TC_02_Validate_Title_Of_HomePage@f759d7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.jungle.qa.testCases.TC_02_Validate_Title_Of_HomePage@f759d7]" name="tearDownClass" is-config="true" duration-ms="714" started-at="2022-01-12T23:07:31 GST" finished-at="2022-01-12T23:07:31 GST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
       </class> <!-- com.jungle.qa.testCases.TC_02_Validate_Title_Of_HomePage -->
       <class name="com.jungle.qa.testCases.TC_05_Validate_Presence_Of_HowItWorks_Subsections">
-        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.jungle.qa.testCases.TC_05_Validate_Presence_Of_HowItWorks_Subsections@bd213e]" name="setUpClass" is-config="true" duration-ms="3019" started-at="2022-01-12T18:14:11 GST" finished-at="2022-01-12T18:14:14 GST">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.jungle.qa.testCases.TC_05_Validate_Presence_Of_HowItWorks_Subsections@cd23d9]" name="setUpClass" is-config="true" duration-ms="3075" started-at="2022-01-12T23:07:46 GST" finished-at="2022-01-12T23:07:49 GST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method status="PASS" signature="validatePresenceOfHowItWorksSubsections()[pri:0, instance:com.jungle.qa.testCases.TC_05_Validate_Presence_Of_HowItWorks_Subsections@bd213e]" name="validatePresenceOfHowItWorksSubsections" duration-ms="1036" started-at="2022-01-12T18:14:14 GST" finished-at="2022-01-12T18:14:15 GST">
+        <test-method status="PASS" signature="validatePresenceOfHowItWorksSubsections()[pri:0, instance:com.jungle.qa.testCases.TC_05_Validate_Presence_Of_HowItWorks_Subsections@cd23d9]" name="validatePresenceOfHowItWorksSubsections" duration-ms="900" started-at="2022-01-12T23:07:49 GST" finished-at="2022-01-12T23:07:50 GST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validatePresenceOfHowItWorksSubsections -->
-        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.jungle.qa.testCases.TC_05_Validate_Presence_Of_HowItWorks_Subsections@bd213e]" name="tearDownClass" is-config="true" duration-ms="723" started-at="2022-01-12T18:14:15 GST" finished-at="2022-01-12T18:14:16 GST">
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.jungle.qa.testCases.TC_05_Validate_Presence_Of_HowItWorks_Subsections@cd23d9]" name="tearDownClass" is-config="true" duration-ms="714" started-at="2022-01-12T23:07:50 GST" finished-at="2022-01-12T23:07:50 GST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
+        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.jungle.qa.testCases.TC_05_Validate_Presence_Of_HowItWorks_Subsections@cd23d9]" name="tearDownMethod" is-config="true" duration-ms="0" started-at="2022-01-12T23:07:50 GST" finished-at="2022-01-12T23:07:50 GST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validatePresenceOfHowItWorksSubsections status=SUCCESS method=TC_05_Validate_Presence_Of_HowItWorks_Subsections.validatePresenceOfHowItWorksSubsections()[pri:0, instance:com.jungle.qa.testCases.TC_05_Validate_Presence_Of_HowItWorks_Subsections@cd23d9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
       </class> <!-- com.jungle.qa.testCases.TC_05_Validate_Presence_Of_HowItWorks_Subsections -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
