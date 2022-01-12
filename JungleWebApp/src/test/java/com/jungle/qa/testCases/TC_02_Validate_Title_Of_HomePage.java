@@ -21,7 +21,7 @@ public class TC_02_Validate_Title_Of_HomePage extends Base{
 		
 		getScreenshot(tcName+"_TITLE_OF_HOME_PAGE");
 		
-		Assert.assertTrue(title.contains("Jungle NFT"));
+		Assert.assertTrue(title.contains("Jungle NFT"), "Title Text is NOT Correct");
 		logger.pass("TITLE Of HOME PAGE IS VALID");
 	}
 }

@@ -84,7 +84,7 @@ public class Base {
 		
 	}
 	
-	/*@AfterMethod()
+	@AfterMethod()
 	public void tearDownMethod(ITestResult result) throws IOException {
 		
 		if(result.getStatus() == ITestResult.FAILURE) {
@@ -92,7 +92,7 @@ public class Base {
 			logger.fail("Test Failed : ", MediaEntityBuilder.createScreenCaptureFromPath(getScreenshot(result.getName()+"_FAIL")).build());
 			
 		}	
-	}*/
+	}
 	
 	@AfterClass
 	public void tearDownClass() throws Exception {
